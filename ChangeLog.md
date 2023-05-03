@@ -16,7 +16,7 @@ updated Replit
 Changed Git link
 
 v2.0
-Name: RPG: _______________
+Name: RPG: LostForest
 update - games name
 *add - change log
 *add - a dictionary to hold map-tile information (add description strings)
